@@ -1,0 +1,27 @@
+  body {
+    background-color:#F0F5F9;
+  }
+
+  hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 10%;
+  }
+
+  h1 {
+    color:#52616B;
+    text-align: center;
+  }
+
+  h3 {
+    color:#52616B;
+  }
+
+  img {
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  }
